@@ -1,7 +1,5 @@
 package com.kata.rover;
 
-import com.kata.rover.Rover.Direction;
-
 public class Command {
 
     private int x;

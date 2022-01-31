@@ -18,10 +18,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Rover {
 
-	public enum Direction {
-		N, S, E, W;
-	}
-
     static final EnumMap<Direction, Direction> LEFT = new EnumMap<>(Direction.class);
     static {
         LEFT.put(Direction.N, Direction.W);
