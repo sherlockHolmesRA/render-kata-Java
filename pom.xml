@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kata</groupId>
-	<artifactId>rover</artifactId>
+	<artifactId>roverTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rover</name>
+	<name>roverTest</name>
 	<description>Rover Kata</description>
 	<properties>
 		<java.version>11</java.version>
